@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"Nama": "Pengepul Kopi"}, "geometry": {"type": "Point", "coordinates": [105.243755, -5.546834]}}, {"type": "Feature", "properties": {"Nama": "Pengepul Pisang"}, "geometry": {"type": "Point", "coordinates": [105.241968, -5.553135]}}]}

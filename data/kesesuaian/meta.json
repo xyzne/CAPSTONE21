@@ -1,0 +1,180 @@
+{
+ "curah_hujan": {
+  "bounds": [
+   [
+    -5.565330735868006,
+    105.21534174684987
+   ],
+   [
+    -5.539258420633093,
+    105.26173903541525
+   ]
+  ],
+  "classes": {
+   "1": {
+    "warna": "#c6dbef",
+    "label": "2505 mm"
+   },
+   "2": {
+    "warna": "#6baed6",
+    "label": "2649 mm"
+   },
+   "3": {
+    "warna": "#2171b5",
+    "label": "2699 mm"
+   },
+   "4": {
+    "warna": "#08306b",
+    "label": "2819 mm"
+   }
+  }
+ },
+ "elevasi": {
+  "bounds": [
+   [
+    -5.565253042173268,
+    105.21536985166816
+   ],
+   [
+    -5.539316444495944,
+    105.2617130214936
+   ]
+  ],
+  "classes": {
+   "1": {
+    "warna": "#1a9850",
+    "label": "0-50 m"
+   },
+   "2": {
+    "warna": "#a6d96a",
+    "label": "50-100 m"
+   },
+   "3": {
+    "warna": "#fee08b",
+    "label": "100-150 m"
+   },
+   "4": {
+    "warna": "#fc8d59",
+    "label": "150-200 m"
+   },
+   "5": {
+    "warna": "#8c510a",
+    "label": ">200 m"
+   }
+  }
+ },
+ "lereng": {
+  "bounds": [
+   [
+    -5.565253042173268,
+    105.21536985166816
+   ],
+   [
+    -5.539316444495944,
+    105.2617130214936
+   ]
+  ],
+  "classes": {
+   "1": {
+    "warna": "#d73027",
+    "label": ">30%"
+   },
+   "2": {
+    "warna": "#fc8d59",
+    "label": "15-30%"
+   },
+   "3": {
+    "warna": "#fee08b",
+    "label": "8-15%"
+   },
+   "4": {
+    "warna": "#a6d96a",
+    "label": "4-8%"
+   },
+   "5": {
+    "warna": "#1a9850",
+    "label": "0-4%"
+   }
+  }
+ },
+ "kesesuaian_lahan": {
+  "bounds": [
+   [
+    -5.565246131298822,
+    105.2153787871786
+   ],
+   [
+    -5.539318587304529,
+    105.26170390296876
+   ]
+  ],
+  "classes": {
+   "1": {
+    "warna": "#1a9850",
+    "label": "S1 (sangat sesuai)"
+   },
+   "2": {
+    "warna": "#a6d96a",
+    "label": "S2 (cukup sesuai)"
+   },
+   "3": {
+    "warna": "#d73027",
+    "label": "N (tidak sesuai)"
+   }
+  }
+ },
+ "tutupan_lahan": {
+  "bounds": [
+   [
+    -5.565246131298822,
+    105.2153787871786
+   ],
+   [
+    -5.539318587304529,
+    105.26170390296876
+   ]
+  ],
+  "classes": {
+   "1": {
+    "warna": "#2e8b57",
+    "label": "Hutan mangrove"
+   },
+   "2": {
+    "warna": "#1b5e20",
+    "label": "Hutan"
+   },
+   "3": {
+    "warna": "#616161",
+    "label": "Jalan"
+   },
+   "4": {
+    "warna": "#cddc39",
+    "label": "Pertanian"
+   },
+   "5": {
+    "warna": "#8bc34a",
+    "label": "Perkebunan"
+   },
+   "6": {
+    "warna": "#d7ccc8",
+    "label": "Lahan terbuka"
+   },
+   "7": {
+    "warna": "#2196f3",
+    "label": "Perairan"
+   },
+   "8": {
+    "warna": "#4dd0e1",
+    "label": "Tambak"
+   },
+   "9": {
+    "warna": "#9ccc65",
+    "label": "Vegetasi"
+   },
+   "10": {
+    "warna": "#e53935",
+    "label": "Bangunan"
+   }
+  }
+ }
+}
